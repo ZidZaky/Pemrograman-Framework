@@ -1,0 +1,18 @@
+body {
+    background-color: #163a49;
+    color: white;
+}
+
+.main {
+    padding: 20px;
+}
+
+.accordion-button {
+    background-color: #163a49;
+    color: white;
+}
+
+.accordion-collapse {
+    background-color: #163a49;
+    color: white;
+}
