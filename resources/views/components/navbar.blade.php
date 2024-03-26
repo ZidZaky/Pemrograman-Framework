@@ -24,7 +24,6 @@
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="/portofolio">Portofolio</a></li>
                         <li><a class="dropdown-item" href="#">Social Media</a></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

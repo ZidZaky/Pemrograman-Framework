@@ -14,7 +14,9 @@
                 <div class="card">
                     <img src="assets/{{ $em['name'] }}.png" class="card-img-top" alt="Fotonya {{ $em['name'] }}">
                     <div class="card-body">
-                        <a style="text-decoration: none; color: black" href="/profile/bio/{{$em['nick']}}"><h5 class="card-title">{{ $em['name'] }}</h5></a>
+                        <a style="text-decoration: none; color: black" href="/profile/bio/{{ $em['nick'] }}">
+                            <h5 class="card-title">{{ $em['name'] }}</h5>
+                        </a>
                         <p class="card-text">{{ $em['email'] }}</p>
                     </div>
                     <div class="card-footer">
